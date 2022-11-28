@@ -1,0 +1,15 @@
+$font-header: 'DM Serif Display', serif;
+$font-text: 'DM Sans', sans-serif;
+
+h1, h3 {
+    font-family: $font-header;
+}
+
+h3 {
+    font-style: italic;
+}
+
+.lyrics p {
+    display: flex;
+    font-family: $font-text;
+}

@@ -1,0 +1,12 @@
+h1, h3 {
+  font-family: "DM Serif Display", serif;
+}
+
+h3 {
+  font-style: italic;
+}
+
+.lyrics p {
+  display: flex;
+  font-family: "DM Sans", sans-serif;
+}/*# sourceMappingURL=style.css.map */
