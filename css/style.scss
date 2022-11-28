@@ -1,8 +1,16 @@
 // VARIABLES
+$color-dark: #222f3e;
+$color-light: #c8d6e5;
+
 $font-header: 'DM Serif Display', serif;
 $font-text: 'DM Sans', sans-serif;
 
 // GLOBAL
+body {
+    background: $color-dark;
+    color: $color-light;
+}
+
 h1, h3 {
     font-family: $font-header;
 }
