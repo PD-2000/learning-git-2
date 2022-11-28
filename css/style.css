@@ -6,7 +6,12 @@ h3 {
   font-style: italic;
 }
 
-.lyrics p {
-  display: flex;
+p {
   font-family: "DM Sans", sans-serif;
+}
+
+.lyrics {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }/*# sourceMappingURL=style.css.map */
