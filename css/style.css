@@ -16,7 +16,7 @@ p {
 }
 
 .lyrics {
-  display: flex;
   align-items: center;
+  display: flex;
   justify-content: center;
 }/*# sourceMappingURL=style.css.map */
