@@ -1,3 +1,1 @@
-<!-- [html-validate-disable-next deprecated -- the next occurrence will not trigger an error] -->
-<blink>This will not trigger an error</blink>
-<blink>But this line will</blink>
+npm exec html-validate *.html
